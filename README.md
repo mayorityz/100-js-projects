@@ -1,4 +1,4 @@
-Last year an instagram ad for 101 js projects, written by GEORGE FIELD.
+Last year, I saw an instagram ad for 101 js projects, written by GEORGE FIELD.
 
 *Turns out they are 100*
 
@@ -11,3 +11,7 @@ Also, I may skip the simpler ones at the beginning, but certainly fill out what 
 Cheers!
 
 Mayowa
+![alt text](https://github.com/mayorityz/100-js-projects/my_projects.jpg "Mayowa Abiodun")
+
+..* Projects.
+  1. [Weather Location Info App](#)
