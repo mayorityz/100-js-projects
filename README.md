@@ -11,7 +11,7 @@ Also, I may skip the simpler ones at the beginning, but certainly fill out what 
 Cheers!
 
 Mayowa
-![alt text](https://github.com/mayorityz/100-js-projects/my_projects.jpg "Mayowa Abiodun")
+![my profile image](https://github.com/mayorityz/100-js-projects/my_profile.jpg "Mayowa Abiodun")
 
 ..* Projects.
   1. [Weather Location Info App](#)
